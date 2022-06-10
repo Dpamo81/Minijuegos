@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 93c9045ed53c01c42981d5a1e907d935
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 56381990f9448e442b46741a35524099
+  - enabled: 1
+    path: Assets/Scenes/CojerCubito.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MiniJuego2.unity
+    guid: 32bf3049895a35746873e59f90ee26e9
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: f0a7c01886e8d6040bc20203ab820c9e
+  - enabled: 1
+    path: Assets/Scenes/MenuJuegos.unity
+    guid: 37e22435d1a23d0429bf05fc027e4bea
+  - enabled: 1
+    path: Assets/Scenes/SalvarTierra.unity
+    guid: e8ec1a2cdacf1af41946125889294674
+  m_configObjects: {}
